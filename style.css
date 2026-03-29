@@ -55,9 +55,9 @@ p {
 
 article {
     background-color: white;
-    padding:30px;
+    padding:15px 45px 30px 45px;
     width: 400px;
-    margin:65px;
+    margin:20px;
 }
 
 .article-but {
